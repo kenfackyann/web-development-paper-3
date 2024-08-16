@@ -117,7 +117,9 @@ font-weight: bold;
 
 }
 .largecard{
-    background-color: #a1a4ad;
+    background-image: url(../image/1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 300px;
     width: 600px;
     border-radius: 20px;
@@ -134,8 +136,14 @@ font-weight: bold;
     height: 120px;
     width: 290px;
     border-radius: 20px;
+    background-image: url(../image/2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .smallcard2{
+    background-image: url(../image/3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: #a1a4ad;
     height: 120px;
     width: 290px;
@@ -147,8 +155,14 @@ font-weight: bold;
     gap: 10px;
 }
 .card1{
+    background-image: url(../image/4.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 200px;
 }
 .card2{
+    background-image: url(../image/5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 200px;
 }
