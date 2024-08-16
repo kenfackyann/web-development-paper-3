@@ -1,0 +1,154 @@
+body{
+    background-color: #e2e4eb;
+    padding: 100px;
+   
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    
+}
+.logo_image{
+    background-color: #1aba1a;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+
+    
+}
+.logotitle{
+    font-weight: bold;
+    font-size: 20px;
+}
+.logotitle span{
+    font-weight: lighter;
+}
+.sec_1_header_1{
+    padding: 40px 20px 10px 10px;
+background-color: white;
+border-radius: 10px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+.icons{
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #e2e4eb;
+}
+.header_left{
+    display: flex;
+    flex-direction: row;
+align-items: center;
+justify-content: space-between;
+gap: 50px;
+}
+.header_right{
+    display: flex;
+    flex-direction: row;
+align-items: center;
+justify-content: space-between;
+gap: 20px;
+}
+.login{
+    font-weight: bold;
+}
+.nav_links a{
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.price_title{
+font-weight: bold;
+}
+.sec_1_header_2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1aba1a;
+    padding: 20px;
+    border-radius: 10px;
+}
+.searchbar{
+    height: 40px;
+    width: 400px;
+    border-radius: 20px;
+    border: 1px solid #e2e4eb;
+}
+.link a{
+    text-decoration: none;
+    color: #e2e4eb;
+}
+.section_1_body{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+.section_1_body_1{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 250px;
+}
+.section_1_body_1 h3{
+    color: #f1253b;
+}
+.section_1_body_1 p{
+    font-weight: bold;
+}
+.section_1_body_2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+
+}
+.largecard{
+    background-color: #a1a4ad;
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+}
+.smallcards{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.smallcard1{
+    background-color: white;
+    height: 120px;
+    width: 290px;
+    border-radius: 20px;
+}
+.smallcard2{
+    background-color: #a1a4ad;
+    height: 120px;
+    width: 290px;
+    border-radius: 20px;
+}
+.section_1_body_3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.card1{
+    height: 200px;
+}
+.card2{
+    height: 200px;
+}
